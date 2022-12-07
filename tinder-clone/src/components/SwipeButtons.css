@@ -1,0 +1,43 @@
+.swipeButtons{
+    margin-top: 27%;
+    /* position: fixed; */
+    bottom: 10vh;
+    display: flex;
+    width: 100%;
+    
+    justify-content: space-evenly;
+}
+
+.swipeButtons .MuilconButton-root {
+    background-color: white;
+    box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3) ;
+}
+
+.swipeButton_repeat{
+    padding: 3vw !important;
+    
+    color: orange !important;
+
+}
+.swipeButton_left{
+    padding: 3vw !important;
+    color: rgb(253, 49, 13) !important;
+
+
+}
+.swipeButton_star{
+    padding: 3vw !important;
+    color: rgb(42, 28, 224) !important;
+
+}
+.swipeButton_right{
+    padding: 3vw !important;
+    color: rgb(164, 23, 47) !important;
+
+}
+.swipeButton_lightning{
+    padding: 3vw !important;
+    color: rgb(32, 124, 228) !important;
+
+
+}

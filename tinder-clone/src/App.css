@@ -1,0 +1,49 @@
+.inputReg{
+    padding: 7px;
+    display: block;
+    border: 1px solid rgb(227, 60, 88);
+    width: 300px;
+    margin: 20px;
+}
+
+.HeadLine{
+    color: rgb(227, 60, 88) ;
+}
+
+.Signup{
+    margin-left: 35%;
+    margin-top: 100px;
+}
+
+.button{
+    margin:20px;
+  width: 150px;
+  padding: 10px;
+  background-color: rgb(227, 60, 88);
+  border: solid 1px;
+  cursor: pointer;
+}
+
+.Account{
+    margin-left: 37%;
+    margin-top: 15px;
+}
+
+.AccName{
+    color:rgb(227, 60, 88) ;
+}
+
+.RegBut{
+    margin:10px;
+    width: 90px;
+    background-color: rgb(227, 60, 88);
+    border: solid 1px;
+    cursor: pointer
+}
+
+.logout{
+    color: rgb(227, 60, 88);
+    cursor: pointer;
+    margin-right: 25px;
+   
+}
